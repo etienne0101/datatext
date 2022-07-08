@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+<iframe title="[ Insert title here ]" aria-label="Diagramme en barres" id="datawrapper-chart-kTeyu" src="https://datawrapper.dwcdn.net/kTeyu/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="521"></iframe>
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
